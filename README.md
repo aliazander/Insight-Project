@@ -5,7 +5,7 @@ No-zone: predicting ozone levels 48 hours in advance
 www.no-zone.xyz provides real time ozone levels predictions for Los Angeles, California.
 
 Description for each final:
-1. ozone_combined_cleaned.ipynb - downloads all necessary data, cleans it up, and exports new csv
+1. ozone_combined_cleaned_LA.ipynb - downloads all necessary data, cleans it up, and exports new csv
 2. EDA_FeatureEngineering.ipynb - creates new features necessary for fitting predictive model
 3. Add_uncertainty.ipynb - add uncertainty to weather data for the future time points to mimic realistic circumstances
 4. Model_testing.ipynb - try several different types of models to determine which is best to use in the final web app
