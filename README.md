@@ -1,5 +1,7 @@
 # Insight-Project
 No-zone: predicting ozone levels 48 hours in advance
+
+
 www.no-zone.xyz provides real time ozone levels predictions for Los Angeles, California.
 
 Description for each final:
